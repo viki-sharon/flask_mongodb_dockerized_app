@@ -6,3 +6,6 @@ This code is for illustration to build dockerized Flask + MongoDB app as describ
     <img src="http://img.youtube.com/vi/RuaKvPq0Fzo/0.jpg"></img>
   </a>
 </p>
+
+
+Blog link: https://medium.com/analytics-vidhya/creating-dockerized-flask-mongodb-application-20ccde391a
